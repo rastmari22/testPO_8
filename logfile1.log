@@ -1,0 +1,290 @@
+2024-12-04 10:23:58,269 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:23:58,532 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:23:59,759 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 10:24:05,817 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:05,817 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:06,099 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:06,099 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:07,801 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-12-04 10:24:13,817 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:24:13,817 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:24:13,817 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:24:14,113 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:24:14,113 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:24:14,113 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:24:15,391 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:24:21,423 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:24:21,423 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:24:21,423 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:24:21,423 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:24:21,696 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:24:21,696 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:24:21,696 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:24:21,696 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:24:22,557 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:24:22,557 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:24:27,691 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:27,691 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:27,691 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:27,691 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:27,691 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:24:27,987 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:27,987 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:27,987 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:27,987 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:27,987 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:24:29,217 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 10:24:29,217 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 10:26:19,009 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:19,249 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:20,503 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 10:26:26,356 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:26,356 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:26,627 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:26,627 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:28,339 : INFO : time_at_work_displayed : Time At Work Option is displayed  True
+2024-12-04 10:26:34,547 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:26:34,547 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:26:34,547 : INFO : execute_login : Enter Username - admin
+2024-12-04 10:26:34,817 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:26:34,817 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:26:34,817 : INFO : execute_login : Enter Password - admin$$
+2024-12-04 10:26:35,992 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:26:42,037 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:26:42,037 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:26:42,037 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:26:42,037 : INFO : execute_login : Enter Username - Admin123
+2024-12-04 10:26:42,298 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:26:42,298 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:26:42,298 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:26:42,298 : INFO : execute_login : Enter Password - 123
+2024-12-04 10:26:43,158 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:26:43,158 : INFO : actual_error : Actual Error Message - Invalid credentials
+2024-12-04 10:26:48,163 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:48,163 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:48,163 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:48,163 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:48,163 : INFO : execute_login : Enter Username - Admin
+2024-12-04 10:26:48,429 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:48,429 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:48,429 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:48,429 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:48,429 : INFO : execute_login : Enter Password - admin123
+2024-12-04 10:26:49,639 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 10:26:49,639 : INFO : actual_heading : Heading is Dashboard
+2024-12-04 11:05:31,289 : INFO : execute_login : Enter Username - admin
+2024-12-04 11:06:28,284 : INFO : enter_search_query : Enter search query - book
+2024-12-04 11:06:28,341 : INFO : click_search : Clicking search button
+2024-12-04 11:06:31,023 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:06:31,023 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:06:31,088 : INFO : click_search : Clicking search button
+2024-12-04 11:06:31,088 : INFO : click_search : Clicking search button
+2024-12-04 11:09:50,049 : INFO : enter_search_query : Enter search query - book
+2024-12-04 11:09:50,102 : INFO : click_search : Clicking search button
+2024-12-04 11:09:52,845 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:09:52,845 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:09:52,908 : INFO : click_search : Clicking search button
+2024-12-04 11:09:52,908 : INFO : click_search : Clicking search button
+2024-12-04 11:10:40,551 : INFO : enter_search_query : Enter search query - book
+2024-12-04 11:10:40,643 : INFO : enter_text : Entered text 'book' into element: ('id', 'small-searchterms')
+2024-12-04 11:10:40,646 : INFO : click_search : Clicking search button
+2024-12-04 11:10:40,702 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-04 11:10:43,134 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:10:43,134 : INFO : enter_search_query : Enter search query - non_existing_product
+2024-12-04 11:10:43,240 : INFO : enter_text : Entered text 'non_existing_product' into element: ('id', 'small-searchterms')
+2024-12-04 11:10:43,240 : INFO : enter_text : Entered text 'non_existing_product' into element: ('id', 'small-searchterms')
+2024-12-04 11:10:43,244 : INFO : click_search : Clicking search button
+2024-12-04 11:10:43,244 : INFO : click_search : Clicking search button
+2024-12-04 11:10:43,742 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-04 11:10:43,742 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 22:05:49,445 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:05:49,555 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 22:05:50,845 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 22:05:54,658 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:05:54,658 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:05:54,777 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 22:05:54,777 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 22:05:55,486 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 22:06:57,109 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 22:06:57,137 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 22:06:57,166 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 22:07:07,464 : INFO : filter_by_price_1000_to_1200 : price_text - 1200.00
+2024-12-05 22:07:36,929 : INFO : filter_by_price_over_1200 : price_text - 1200.00
+2024-12-05 22:07:36,957 : INFO : filter_by_price_over_1200 : price_text - 1800.00
+2024-12-05 22:07:36,986 : INFO : filter_by_price_over_1200 : price_text - 1350.00
+2024-12-05 22:09:26,811 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 22:09:26,811 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 22:09:26,811 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 22:09:26,972 : INFO : execute_login : Enter LastName - admin
+2024-12-05 22:09:26,972 : INFO : execute_login : Enter LastName - admin
+2024-12-05 22:09:26,972 : INFO : execute_login : Enter LastName - admin
+2024-12-05 22:09:27,096 : INFO : execute_login : Enter Email - a1dmin@admin.ru
+2024-12-05 22:09:27,096 : INFO : execute_login : Enter Email - a1dmin@admin.ru
+2024-12-05 22:09:27,096 : INFO : execute_login : Enter Email - a1dmin@admin.ru
+2024-12-05 22:09:27,213 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 22:09:27,213 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 22:09:27,213 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 22:12:47,372 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:12:47,475 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 22:12:48,408 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 22:12:53,814 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:12:53,814 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 22:12:53,930 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 22:12:53,930 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 22:12:54,695 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 22:13:24,004 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 22:13:24,033 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 22:13:24,059 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 22:13:28,782 : INFO : filter_by_price_1000_to_1200 : price_text - 1200.00
+2024-12-05 22:13:33,976 : INFO : filter_by_price_over_1200 : price_text - 1200.00
+2024-12-05 22:13:34,005 : INFO : filter_by_price_over_1200 : price_text - 1800.00
+2024-12-05 22:13:34,033 : INFO : filter_by_price_over_1200 : price_text - 1350.00
+2024-12-05 23:40:15,012 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:40:15,123 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:40:16,043 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 23:40:21,008 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:40:21,008 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:40:21,123 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:40:21,123 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:40:21,726 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 23:40:45,957 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:40:45,991 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 23:40:46,019 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:40:50,384 : INFO : filter_by_price_1000_to_1200 : price_text - 1200.00
+2024-12-05 23:40:55,163 : INFO : filter_by_price_over_1200 : price_text - 1200.00
+2024-12-05 23:40:55,194 : INFO : filter_by_price_over_1200 : price_text - 1800.00
+2024-12-05 23:40:55,223 : INFO : filter_by_price_over_1200 : price_text - 1350.00
+2024-12-05 23:41:49,827 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:49,827 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:49,827 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:49,973 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:49,973 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:49,973 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:50,094 : INFO : execute_login : Enter Email - a11111dmin@admin.ru
+2024-12-05 23:41:50,094 : INFO : execute_login : Enter Email - a11111dmin@admin.ru
+2024-12-05 23:41:50,094 : INFO : execute_login : Enter Email - a11111dmin@admin.ru
+2024-12-05 23:41:50,224 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:41:50,224 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:41:50,224 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:41:51,873 : INFO : is_registration_successful : Actual Success Message - Your registration completed
+2024-12-05 23:41:51,873 : INFO : is_registration_successful : Actual Success Message - Your registration completed
+2024-12-05 23:41:55,844 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:55,844 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:55,844 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:55,844 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:41:55,984 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:55,984 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:55,984 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:55,984 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:41:56,109 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:41:56,109 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:41:56,109 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:41:56,109 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:41:56,224 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:41:56,224 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:41:56,224 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:41:56,224 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:41:56,716 : INFO : actual_error : Actual Error Message - The password should have at least 6 characters.
+2024-12-05 23:41:56,716 : INFO : actual_error : Actual Error Message - The password should have at least 6 characters.
+2024-12-05 23:42:13,514 : INFO : enter_search_query : Enter search query - book
+2024-12-05 23:42:13,742 : INFO : enter_text : Entered text 'book' into element: ('id', 'small-searchterms')
+2024-12-05 23:42:13,754 : INFO : click_search : Clicking search button
+2024-12-05 23:42:15,925 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:42:19,601 : INFO : enter_search_query : Enter search query - ab
+2024-12-05 23:42:19,601 : INFO : enter_search_query : Enter search query - ab
+2024-12-05 23:42:19,817 : INFO : enter_text : Entered text 'ab' into element: ('id', 'small-searchterms')
+2024-12-05 23:42:19,817 : INFO : enter_text : Entered text 'ab' into element: ('id', 'small-searchterms')
+2024-12-05 23:42:19,828 : INFO : click_search : Clicking search button
+2024-12-05 23:42:19,828 : INFO : click_search : Clicking search button
+2024-12-05 23:42:20,374 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:42:20,374 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:42:20,625 : INFO : get_error_message : Actual Error Message - Search term minimum length is 3 characters
+2024-12-05 23:44:03,456 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:44:03,565 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:44:04,442 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 23:44:10,440 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:44:10,440 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:44:10,557 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:44:10,557 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:44:11,260 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 23:44:31,234 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:44:31,249 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 23:44:31,264 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:44:59,228 : INFO : filter_by_price_1000_to_1200 : price_text - 1200.00
+2024-12-05 23:47:33,228 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:47:33,298 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:47:34,843 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 23:47:38,219 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:47:38,219 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:47:38,282 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:47:38,282 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:47:38,797 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 23:50:56,123 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:50:56,137 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 23:50:56,155 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:55:01,042 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:55:01,102 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:55:01,776 : INFO : is_registration_successful : Actual Success Message - admin@admin.ru
+2024-12-05 23:55:07,028 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:55:07,028 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:55:07,087 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:55:07,087 : INFO : execute_login : Enter Password - wrongpassword
+2024-12-05 23:55:07,578 : INFO : actual_error : Actual Error Message - Login was unsuccessful. Please correct the errors and try again.
+The credentials provided are incorrect
+2024-12-05 23:55:28,669 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:55:28,686 : INFO : filter_by_price_under_1000 : price_text - 500.00
+2024-12-05 23:55:28,702 : INFO : filter_by_price_under_1000 : price_text - 800.00
+2024-12-05 23:55:40,586 : INFO : filter_by_price_1000_to_1200 : price_text - 1200.00
+2024-12-05 23:55:44,499 : INFO : filter_by_price_over_1200 : price_text - 1200.00
+2024-12-05 23:55:44,517 : INFO : filter_by_price_over_1200 : price_text - 1800.00
+2024-12-05 23:55:44,533 : INFO : filter_by_price_over_1200 : price_text - 1350.00
+2024-12-05 23:57:10,451 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:10,451 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:10,451 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:10,551 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:10,551 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:10,551 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:10,610 : INFO : execute_login : Enter Email - new_admin@admin.ru
+2024-12-05 23:57:10,610 : INFO : execute_login : Enter Email - new_admin@admin.ru
+2024-12-05 23:57:10,610 : INFO : execute_login : Enter Email - new_admin@admin.ru
+2024-12-05 23:57:10,677 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:57:10,677 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:57:10,677 : INFO : execute_login : Enter Password - admin$$
+2024-12-05 23:57:11,671 : INFO : is_registration_successful : Actual Success Message - Your registration completed
+2024-12-05 23:57:11,671 : INFO : is_registration_successful : Actual Success Message - Your registration completed
+2024-12-05 23:57:15,129 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:15,129 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:15,129 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:15,129 : INFO : execute_login : Enter FirstName - admin
+2024-12-05 23:57:15,213 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:15,213 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:15,213 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:15,213 : INFO : execute_login : Enter LastName - admin
+2024-12-05 23:57:15,273 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:57:15,273 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:57:15,273 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:57:15,273 : INFO : execute_login : Enter Email - admin@admin.ru
+2024-12-05 23:57:15,333 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:57:15,333 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:57:15,333 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:57:15,333 : INFO : execute_login : Enter Password - 12345
+2024-12-05 23:57:15,594 : INFO : actual_error : Actual Error Message - The password should have at least 6 characters.
+2024-12-05 23:57:15,594 : INFO : actual_error : Actual Error Message - The password should have at least 6 characters.
+2024-12-05 23:57:28,559 : INFO : enter_search_query : Enter search query - book
+2024-12-05 23:57:28,671 : INFO : enter_text : Entered text 'book' into element: ('id', 'small-searchterms')
+2024-12-05 23:57:28,677 : INFO : click_search : Clicking search button
+2024-12-05 23:57:30,179 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:57:33,281 : INFO : enter_search_query : Enter search query - ab
+2024-12-05 23:57:33,281 : INFO : enter_search_query : Enter search query - ab
+2024-12-05 23:57:33,397 : INFO : enter_text : Entered text 'ab' into element: ('id', 'small-searchterms')
+2024-12-05 23:57:33,397 : INFO : enter_text : Entered text 'ab' into element: ('id', 'small-searchterms')
+2024-12-05 23:57:33,403 : INFO : click_search : Clicking search button
+2024-12-05 23:57:33,403 : INFO : click_search : Clicking search button
+2024-12-05 23:57:33,881 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:57:33,881 : INFO : click : Clicked on element: ('xpath', '//input[@value="Search"]')
+2024-12-05 23:57:34,088 : INFO : get_error_message : Actual Error Message - Search term minimum length is 3 characters
